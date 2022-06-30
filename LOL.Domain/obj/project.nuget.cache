@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNYdHsENeyC3qPTYmCyLfY7+mIz8w5Sl4N9IUvU5FwAV+KIWPkbNXzvnkQN3zR6k6iiAngNQ5VSDIoeEa1z5yQ==",
+  "success": true,
+  "projectFilePath": "D:\\kursach\\Ready\\LOL.Api\\LOL.Domain\\LOL.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viacheslav\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Viacheslav\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
